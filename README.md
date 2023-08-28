@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **RubberDuck01/RubberDuck01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+![RubberDuck01's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubberDuck01&show_icons=true&theme=gruvbox)
+-->
+
+![RubberDuck01's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubberDuck01&show_icons=true&theme=gruvbox)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=donut)
