@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I am Rubber Duck
 DevOps and Arch user btw
 
-Skills: Linux / Python / Bash / C / C++ / C# / Pascal / PowerShell
+⭐ Linux // Python // Bash // C // C++ // C# // Pascal // PowerShell ⭐
 
 - 🌱 I’m currently learning Assembly, Docker
 - ⚡ Fun fact: Church of Emacs initiate
@@ -41,4 +41,7 @@ Skills: Linux / Python / Bash / C / C++ / C# / Pascal / PowerShell
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=compact&hide_progress=true&langs_count=20">
+</p>
+<p align="center">
+  <img src="http://www.el-area.com/europa/banderas%20europa/yugoslavia.png"
 </p>
