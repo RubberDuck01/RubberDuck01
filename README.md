@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RubberDuck01&show_icons=true&count_private=true&theme=gruvbox&rank_icon=github)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RubberDuck01&theme=gruvbox)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=compact&hide_progress=true)
-
-<p align="center">
-  <img src="http://www.el-area.com/europa/banderas%20europa/yugoslavia.png"
-</p>
 -->
 
 ### Hi there 👋, I am Rubber Duck
@@ -34,8 +30,9 @@ DevOps and Arch user btw
 
 ⭐ Linux // Python // Bash // C // C++ // C# // Pascal // PowerShell ⭐
 
-- 🌱 I’m currently learning Assembly, Docker
-- ⚡ Fun fact: Church of Emacs initiate
+- 🔭 I’m currently working on my own simple Git client
+- 🌱 I’m currently learning Docker, Kubernetes & Scala (because Skoda Scala 😜)
+- ⚡ Fun fact: Modding 🕹️ & motorsport 🏎️ enthusiast
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RubberDuck01&show_icons=true&count_private=true&theme=gruvbox&rank_icon=github">
@@ -45,7 +42,4 @@ DevOps and Arch user btw
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=compact&hide_progress=true&langs_count=20">
-</p>
-<p align="center">
-  <img src="https://worldoftopia.com/wp-content/uploads/2022/05/Yugoslav_Star.svg-300x286.png"
 </p>
