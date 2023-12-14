@@ -31,7 +31,7 @@ DevOps and Arch user btw
 ⭐ Linux // Python // Bash // C // C++ // C# // Pascal // PowerShell ⭐
 
 - 🔭 I’m currently working on my own simple Git client
-- 🌱 I’m currently learning Docker, Kubernetes & Scala (because Skoda Scala 😜)
+- 🌱 I’m currently learning Docker, Kubernetes
 - ⚡ Fun fact: Modding 🕹️ & motorsport 🏎️ enthusiast
 
 <p align="center">
