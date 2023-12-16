@@ -32,7 +32,7 @@ DevOps and Arch user btw
 
 - 🔭 I’m currently working on my own simple Git client
 - 🌱 I’m currently learning Docker, Kubernetes
-- ⚡ Fun fact: Modding 🕹️ & motorsport 🏎️ enthusiast
+- ⚡ Fun fact: Modding 🕹️ & motorsports 🏎️ enthusiast
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RubberDuck01&show_icons=true&count_private=true&theme=gruvbox&rank_icon=github">
