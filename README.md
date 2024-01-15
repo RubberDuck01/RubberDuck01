@@ -43,3 +43,6 @@ DevOps and Arch user btw
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=compact&hide_progress=true&langs_count=20">
 </p>
+<p align="center">
+  <img src="https://worldoftopia.com/wp-content/uploads/2022/05/Yugoslav_Star.svg-300x286.png"
+</p>
