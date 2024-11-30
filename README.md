@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I am Rubber Duck
-DevOps and Arch user btw
+DevOps Engineer
 
-⭐ Linux // Python // Bash // C // C++ // C# // Pascal // PowerShell ⭐
+⭐ Linux // Python // Bash // C# // C // C++ // Go // Pascal // PowerShell ⭐
 
-- 🔭 I’m currently working on Automobilista 2 companion app and Fallout 4 Item Sorter
-- 🌱 I’m currently learning Docker, Kubernetes
+- 🔭 I’m currently working on Fallout 4 BodyGen Generator and a few personal extras
+- 🌱 I’m currently learning Kubernetes
 - ⚡ Fun fact: Modding 🕹️ & motorsports 🏎️ enthusiast
 
 <p align="center">
