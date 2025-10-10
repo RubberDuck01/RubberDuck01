@@ -41,7 +41,7 @@ DevOps Engineer
   <img src="https://streak-stats.demolab.com/?user=RubberDuck01&theme=gruvbox">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=compact&hide_progress=true&langs_count=20">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=donut&hide_progress=false&stats_format=bytes&langs_count=20">
 </p>
 <p align="center">
   <img src="https://imgur.com/ven1iAV.png" width="35%" />
