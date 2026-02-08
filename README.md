@@ -66,18 +66,37 @@ DevOps Engineer
 ## 💻 Skills // Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Linux-%23007ACC?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white" alt="Red Hat"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/AlmaLinux-262577?style=flat&logo=almalinux&logoColor=white" alt="AlmaLinux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%234EAA25?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSH-222222?style=flat&logo=openssh&logoColor=white" alt="SSH"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pascal-E3F171?style=flat&logoColor=black"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white" alt="JFrog"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/YAML-0D6EFD?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
+  <img src="https://img.shields.io/badge/.ini-009688?style=flat&logo=notepadplusplus&logoColor=white" alt="INI Files"/>
+  <img src="https://img.shields.io/badge/.toml-4B8BBE?style=flat&logo=notepadplusplus&logoColor=white" alt="TOML Files"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black" alt="Notepad++"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/QEMU-313131?style=flat&logo=qemu&logoColor=white" alt="QEMU"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware"/>
 </p>
 
 ---
