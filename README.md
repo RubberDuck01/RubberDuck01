@@ -150,9 +150,6 @@ DevOps Engineer
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubberDuck01&count_private=true&theme=gruvbox&layout=donut&hide_progress=false&stats_format=bytes&langs_count=20">
 </p>
-<p align="center">
-  <img src="https://imgur.com/ven1iAV.png" width="35%" />
-</p>
 
 ---
 
@@ -181,3 +178,7 @@ DevOps Engineer
 
 - 🦆 Always automating the boring stuff
 - 🏎️ Catch me modding games or watching motorsports
+
+<p align="center">
+  <img src="https://imgur.com/ven1iAV.png" width="35%" />
+</p>
