@@ -162,7 +162,7 @@ DevOps Engineer
 - MOBO: MSI MAG X870E Tomahawk Wi-Fi
 - RAM: 2x32GB Kingston FURY Beast RGB 6000MHz (CL30)
 - CPU Cooler: be quiet! Dark Rock Elite
-- GPU: Sapphire AMD Radeon RX9070XT
+- GPU: Sapphire AMD Radeon RX 9070 XT Nitro+
 - Storage:
   - Samsung 9100 PRO 4TB NVMe
   - Samsung 870 EVO 4TB SATA
