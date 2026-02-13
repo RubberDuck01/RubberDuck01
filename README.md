@@ -101,11 +101,6 @@ DevOps Engineer
   <img src="https://img.shields.io/badge/Pascal-E3F171?style=flat&logoColor=black"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
 
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-
   <!-- DB -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 
@@ -129,13 +124,15 @@ DevOps Engineer
 
 ## 🌟 My Featured Projects
 
+<!--
 - 🔥 Now Hot: [RD AudioRip](https://github.com/RubberDuck01/rd-audiorip)  
+-->
 - 🧩 Maintaining / WIP:
   - [Fallout 4 PowerMorph Generator](https://github.com/RubberDuck01/fo4-powermorph-generator)
   - [RD DevOps Kit](https://github.com/RubberDuck01/rd-devopskit)
   - [Fallout 4 - Various Automation & Utility Scripts](https://github.com/RubberDuck01/fo4-utility-scripts)
   - [Fallout 4 SAKR/RCP Generator](https://github.com/RubberDuck01/RD-SAKR-RCP-Gen)
-- 💡 Feel free to check out my [GitHub profile](https://github.com/RubberDuck01?tab=repositories)
+- 💡 Feel free to check out [all my GitHub repos](https://github.com/RubberDuck01?tab=repositories)
 
 ---
 
