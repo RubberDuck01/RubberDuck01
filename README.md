@@ -98,6 +98,8 @@ DevOps Engineer
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/PyQt-3776AB?style=flat&logo=python&logoColor=white" alt="PyQt"/>
   <img src="https://img.shields.io/badge/Pascal-E3F171?style=flat&logoColor=black"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
 
@@ -108,8 +110,6 @@ DevOps Engineer
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white" alt="XML"/>
   <img src="https://img.shields.io/badge/YAML-0D6EFD?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
-  <img src="https://img.shields.io/badge/.ini-009688?style=flat&logo=notepadplusplus&logoColor=white" alt="INI Files"/>
-  <img src="https://img.shields.io/badge/.toml-4B8BBE?style=flat&logo=notepadplusplus&logoColor=white" alt="TOML Files"/>
 
   <!-- Editors -->
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/>
