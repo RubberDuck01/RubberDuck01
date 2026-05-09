@@ -124,9 +124,7 @@ DevOps Engineer
 
 ## 🌟 My Featured Projects
 
-<!--
-- 🔥 Now Hot: [RD AudioRip](https://github.com/RubberDuck01/rd-audiorip)  
--->
+- 🔥 Now Hot: [RD AudioRip](https://github.com/RubberDuck01/rd-audiorip-python)  
 - 🧩 Maintaining / WIP:
   - [Fallout 4 PowerMorph Generator](https://github.com/RubberDuck01/fo4-powermorph-generator)
   - [RD DevOps Kit](https://github.com/RubberDuck01/rd-devopskit)
@@ -150,7 +148,7 @@ DevOps Engineer
 
 ---
 
-## 🖥️ My Rig (I love this thing)
+## 🖥️ My Workhorse
 
 - CPU: AMD Ryzen 7 9800X3D
 - MOBO: MSI MAG X870E Tomahawk Wi-Fi
