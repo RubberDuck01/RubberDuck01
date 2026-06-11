@@ -50,7 +50,7 @@ DevOps Engineer
 -->
 
 <h1 align="center">Hi there 👋, I am RubberDuck01</h1>
-<h3 align="center">DevOps Engineer // Automation Enthusiast</h3>
+<h3 align="center">Cloud/DevOps Engineer // Automation Enthusiast</h3>
 
 ---
 
